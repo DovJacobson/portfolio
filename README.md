@@ -5,9 +5,9 @@ tools for self-promotion, self explanation
 ---
 
 ## talks
-this is a listing of the various (17 as of now) talks I hacve given about game-based learning.
+this is a listing of the various talks on game-based learning that i have given once or more. (17 as of mid-2022)
 
-all llustrations are in an external 'google slide' show, into which i have copied a representative slide from each of the talks listed.
+all llustrations are in an external 'google slide' show, into which i've copied a representative slide from each of the talks listed.
 
 
 _dov@gamesthatwork.com_
