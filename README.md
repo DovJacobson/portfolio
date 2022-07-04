@@ -1,7 +1,7 @@
 # portfolio
 tools for self-promotion, self explanation
+(feel free to copy and morph any of the bits of code)
 
-vistors: feel free to copy and morph any of the bits of code you see here
 ---
 
 ## talks
@@ -10,4 +10,5 @@ All the illustrations are in an external google slide show,
 into which i have copied a representative slide from each of the talks listed.
 
 
+_dov@gamesthatwork.com
 
