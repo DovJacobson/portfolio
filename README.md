@@ -1,5 +1,6 @@
 # portfolio
-tools for self-promotion, self explanation
+tools for self-promotion, and hopefully self explanation
+
 (feel free to copy and morph any code you find useful)
 
 ---
